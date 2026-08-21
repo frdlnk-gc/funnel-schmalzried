@@ -1,0 +1,128 @@
+{
+  "firma": "GARTEN SCHMALZRIED",
+  "stelle": "Facharbeiter GaLaBau (m/w/d)",
+  "ort": "Deiningen",
+  "plz": "86738",
+  "farbe_primary": "#8EC045",
+  "farbe_secondary": "#4A6B1F",
+  "region_badge": "Deiningen & Umgebung",
+  "benefit_top": "Kurzer Freitag & moderner Maschinenpark",
+  "benefits": [
+    "Kurzer Freitag",
+    "Anhängerführerschein & Zertifizierungen – Kosten übernimmt der Betrieb",
+    "Unbefristeter Arbeitsvertrag & betriebliche Altersvorsorge",
+    "Flexible Arbeitszeiten & flache Hierarchien",
+    "Interne Karrierechancen – bis zum Vorarbeiter mit eigener Kolonne",
+    "Hilfe bei der Wohnungssuche"
+  ],
+  "aufgaben": [
+    "Pflaster-, Erd- und bautechnische Arbeiten – mit modernen Baumaschinen und Geräten",
+    "Als Vorarbeiter: Kolonne führen, Baustelle organisieren, mit Kunden und Bauleitung abstimmen",
+    "Du baust die GaLaBau-Kolonne aktiv mit auf – saubere, hochwertige Ausführung inklusive"
+  ],
+  "anforderung": "Abgeschlossene Ausbildung im Garten- und Landschaftsbau oder vergleichbar (Facharbeiter, Vorarbeiter, Meister, Techniker) – oder Berufserfahrung aus GaLaBau, Straßen-/Tiefbau oder Hochbau. Führerschein Klasse B, idealerweise BE.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Straßen- / Tiefbau",
+      "icon": "🧱",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung im Straßen-/Tiefbau",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    },
+    {
+      "label": "Hochbau / Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung im Hochbau / anderem Gewerk",
+          "icon": "🎓"
+        },
+        {
+          "label": "Vorarbeiter / Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        },
+        {
+          "label": "Quereinsteiger",
+          "icon": "🔄"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "2016",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "3",
+        "label": "Mann – Kolonne im Aufbau"
+      }
+    ],
+    "text": "GARTEN SCHMALZRIED aus Deiningen bei Nördlingen baut hochwertige Gärten und Außenanlagen – mit modernem Maschinenpark, digitalem Baustellenalltag und einem Team, auf das man sich verlassen kann. Hier baust du die GaLaBau-Kolonne aktiv mit auf."
+  },
+  "kunde_tab": "05 GARTEN SCHMALZRIED",
+  "quelle": "https://schmalzried.green-careers.de",
+  "logo": "logo.jpg",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Deiningen"
+  },
+  "hero_bild": "img/hero.jpg",
+  "video": {
+    "src": "img/video.mp4",
+    "poster": "img/poster.jpg"
+  },
+  "bilder": [
+    "img/f1.jpg",
+    "img/f2.jpg",
+    "img/f3.jpg",
+    "img/f4.jpg",
+    "img/f5.jpg",
+    "img/f6.jpg",
+    "img/f7.jpg",
+    "img/f8.jpg"
+  ]
+}
