@@ -551,8 +551,8 @@ var LEAD_ID=(function(){
   try{
     var p=getComputedStyle(document.documentElement).getPropertyValue('--primary').trim();
     var L=lum(p), r=document.documentElement.style;
-    if(L>0.5) r.setProperty('--on-primary','#14181c');
-    r.setProperty('--chip-ink', L>0.5 ? '#14181c' : '#ffffff');
+    if(L>0.42) r.setProperty('--on-primary','#14181c');
+    r.setProperty('--chip-ink', L>0.42 ? '#14181c' : '#ffffff');
     /* Helle Markenfarbe (Gelb & Co.): Text-Akzente neutral dunkel statt schmutzigem Mischton */
     if(L>0.45) r.setProperty('--primary-text','#14181c');
     else if(L>0.4) r.setProperty('--primary-text','color-mix(in srgb, var(--primary) 55%, #14181c)');

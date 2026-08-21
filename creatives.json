@@ -1,0 +1,37 @@
+[
+  {
+    "name": "creative-1-benefit-checkliste",
+    "bilder": [
+      "logo.jpg",
+      "img/f3.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED' (grüner Schriftzug mit S-Blatt-Symbol), (2) ein Foto eines roten Radladers bei der Arbeit an einem Baum. Nutze das Foto unverändert als rechte Bildhälfte, links eine ruhige dunkelgrüne Fläche (#2E4213) mit dezentem Verlauf. Layout links, von oben nach unten: Headline (groß, fett, weiß): „FACHARBEITER“ mit Zusatz darunter „GaLaBau (m/w/d)“. Standort-Zeile mit kleinem roten Pin-Symbol: „Deiningen bei Nördlingen“. 4 Benefit-Pills (weiße abgerundete Balken mit grünem Häkchen, schwarze Schrift): „Kurzer Freitag“ / „Anhängerführerschein bezahlt“ / „Unbefristeter Arbeitsvertrag“ / „Moderne Maschinen“. Unten ein Balken in Maigrün (#8EC045, dunkelgrüne Schrift #1E3208): „Erhalte Dein unverbindliches Job-Angebot – ohne Lebenslauf & Anschreiben“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Sauberes, modernes Recruiting-Design, gut lesbar auf dem Handy. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-2-referenz-collage",
+    "bilder": [
+      "logo.jpg",
+      "img/hero.jpg",
+      "img/f4.jpg",
+      "img/f5.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige als moderne Foto-Collage im Raster (2 Spalten). Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED', (2) Foto eines modernen Gartens mit Pergola und Whirlpool, (3) Foto einer gepflasterten Einfahrt vor einem Wohnhaus, (4) Foto eines Holz-Carports mit Sichtschutz. Oben links eine weiße Kachel mit dem beigefügten Logo (original, unverändert), darunter groß „Facharbeiter GaLaBau“ + klein „(m/w/d)“ + Standort-Zeile mit rotem Pin-Symbol „Deiningen · Raum Nördlingen“. Die drei Fotos unverändert als gleich große Kacheln mit schmalen weißen Stegen verteilen. Unten rechts eine Kachel in Maigrün (#8EC045, dunkelgrüne Schrift #1E3208): „Jetzt unverbindliches Job-Angebot erhalten – mit 1 Klick!“. Clean, hell, wie ein echter Einblick in die Referenzen. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-3-standort-karte",
+    "bilder": [
+      "logo.jpg",
+      "img/karte.jpg",
+      "img/f1.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED', (2) eine Landkarte der Region Deiningen (mit Nördlingen und Donauwörth im Umkreis), (3) ein Foto des Firmengebäudes mit grünen Toren. Untere zwei Drittel: die Landkarte unverändert, male einen kräftigen roten Kreis (Handdraw-Stil) um die Bildmitte der Karte und einen dicken roten Pfeil, der von schräg oben auf den Kreis zeigt. Oberes Drittel: weiße Fläche mit links „FACHARBEITER“ (groß, schwarz) + „GaLaBau (m/w/d)“ + Kachel in Maigrün „Ohne Lebenslauf & Anschreiben!“ (dunkelgrüne Schrift #1E3208, Hintergrund #8EC045), rechts daneben das Firmengebäude-Foto unverändert als kleine abgerundete Kachel; das beigefügte Logo original und unverändert oben rechts. Auf der Karte selbst KEINEN zusätzlichen Text ergänzen (nur Kreis + Pfeil). Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  },
+  {
+    "name": "creative-4-maschinen",
+    "bilder": [
+      "logo.jpg",
+      "img/f6.jpg"
+    ],
+    "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED', (2) ein Foto einer modernen Maschinenhalle mit Fahrzeugflotte. Das Hallen-Foto unverändert als vollflächigen Hintergrund, unten ein weicher dunkler Verlauf für Lesbarkeit. Text unten, clean gesetzt: Headline (groß, weiß, fett): „Moderne Technik. Kurzer Freitag.“ Subline (kleiner, weiß, mit kleinem Pin-Symbol): „Facharbeiter / Vorarbeiter GaLaBau (m/w/d) · Raum Nördlingen“. Button-Balken in Maigrün (#8EC045, dunkelgrüne Schrift #1E3208): „Job-Angebot in 60 Sekunden erhalten“. Das beigefügte Logo original und unverändert oben links auf weißer Mini-Kachel. Verboten: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Gehaltszahlen, erfundene Siegel oder Logos; Logo und Fotos nicht veraendern, verzerren oder umfaerben (nur zuschneiden). Aller Text vollstaendig innerhalb seiner Flaechen, nichts angeschnitten, Deutsch fehlerfrei."
+  }
+]
