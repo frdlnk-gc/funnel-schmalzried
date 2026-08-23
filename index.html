@@ -778,7 +778,7 @@ function submit(){
   /* Eine Lead-ID gilt für genau EINE Bewerbung: Bei einer zweiten Bewerbung im selben Tab
      landeten Teil-B-/Multi-Upserts sonst auf der Zeile der ersten (sessionStorage-ID). */
   try{
-    if(sessionStorage.getItem('gcf_used_'+LEAD_ID)){
+    if(sessionStorage.getItem('gcf_used_'+LEAD_ID) || sessionStorage.getItem('gc_multi_'+LEAD_ID)){
       LEAD_ID=gcUuid(); sessionStorage.setItem('gcf_lead_id',LEAD_ID);
     }
   }catch(e){}
