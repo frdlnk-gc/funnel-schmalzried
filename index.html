@@ -775,6 +775,14 @@ function submit(){
   if(!document.getElementById('fConsent').checked) return err('Bitte bestätige die Datenschutzerklärung.');
   S.name=name; S.telefon=tel; S.email=mail;
 
+  /* Eine Lead-ID gilt für genau EINE Bewerbung: Bei einer zweiten Bewerbung im selben Tab
+     landeten Teil-B-/Multi-Upserts sonst auf der Zeile der ersten (sessionStorage-ID). */
+  try{
+    if(sessionStorage.getItem('gcf_used_'+LEAD_ID)){
+      LEAD_ID=gcUuid(); sessionStorage.setItem('gcf_lead_id',LEAD_ID);
+    }
+  }catch(e){}
+
   var payload={
     kunde_tab:CFG.kunde_tab, kunde:CFG.kunde, stelle:CFG.stelle, quelle:CFG.quelle,
     name:S.name, telefon:S.telefon, email:S.email,
@@ -791,6 +799,7 @@ function submit(){
       document.getElementById('doneName').textContent='Danke, '+vn+'! ';
       /* Meta-Lead NUR nach echtem, erfolgreichem Submit (validierter State) – eventID = lead_id für CAPI-Dedup */
       try{ if(window.fbq) fbq('track','Lead',{},{eventID:LEAD_ID}); }catch(e){}
+      try{ sessionStorage.setItem('gcf_used_'+LEAD_ID,'1'); }catch(e){}
       go('s-done');
     })
     .catch(function(){
