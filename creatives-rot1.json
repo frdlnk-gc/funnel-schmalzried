@@ -1,0 +1,17 @@
+[
+ {
+  "name": "creative-5-team",
+  "prompt": "Erstelle ein Werbe-Creative im Hochformat für eine Meta-Stellenanzeige. Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED' (grüner Schriftzug mit S-Blatt-Symbol), (2) ein Foto von zwei Mitarbeitern per Handschlag vor dem grauen Firmentransporter mit GARTEN-SCHMALZRIED-Beschriftung. Nutze das Team-Foto unverändert und ungespiegelt als obere zwei Drittel des Bildes (Personen und Transporter vollständig sichtbar, nichts verzerren). Unteres Drittel: eine ruhige dunkelgrün-anthrazitfarbene Fläche. Darauf in großer, fetter, weißer Schrift die Headline 'Dein neues Team in Deiningen', darunter kleiner in hellem Maigrün die Zeile 'Facharbeiter GaLaBau (m/w/d) – 3-Mann-Kolonne im Aufbau'. Das Logo original und unverändert (exakt gleiche Farben, Form und Schriftzug, nichts neu zeichnen) klein unten rechts auf der dunklen Fläche. Moderner, cleaner Look, weiche Kante zwischen Foto und Farbfläche. Verboten auf dem Bild: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Preise, Gehaltszahlen, Buttons, erfundene Siegel oder Logos. Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei.",
+  "bilder": [
+   "logo.jpg",
+   "img/f2.jpg"
+  ]
+ },
+ {
+  "name": "creative-6-kurzer-freitag",
+  "prompt": "Erstelle ein rein typografisches Werbe-Creative im Hochformat für eine Meta-Stellenanzeige, OHNE Fotos. Beigefügt: (1) das Firmenlogo 'GARTEN SCHMALZRIED' (grüner Schriftzug mit S-Blatt-Symbol). Hintergrund: eine edle, ruhige, sehr dunkle anthrazit-grüne Fläche mit ganz dezenter, feiner Blatt-Linienstruktur als Muster (kaum sichtbar, kein Fotorealismus). Zentral in sehr großer, fetter, weißer Schrift das Statement 'Kurzer Freitag.' und direkt darunter in mittlerer Größe in hellem Maigrün 'Jede Woche früher ins Wochenende.' Weiter unten in kleinerer weißer Schrift: 'Facharbeiter GaLaBau (m/w/d) in Deiningen & Umgebung'. Das Logo original und unverändert (exakt gleiche Farben, Form und Schriftzug, nichts neu zeichnen) mittig am unteren Rand auf der dunklen Fläche – NICHT auf einer hellen Fläche platzieren. Alle Schrift auf der dunklen Fläche ist weiß oder hell-maigrün, nirgendwo dunkle Schrift auf grünem Grund. Viel ruhige Fläche, hochwertige Plakat-Anmutung. Verboten auf dem Bild: Telefonnummern, E-Mail-Adressen, Website-URLs, QR-Codes, Personennamen, Preise, Gehaltszahlen, Buttons, erfundene Siegel oder Logos, Fotos oder fotorealistische Szenen. Aller Text vollständig innerhalb seiner Flächen, nichts angeschnitten, Deutsch fehlerfrei.",
+  "bilder": [
+   "logo.jpg"
+  ]
+ }
+]
