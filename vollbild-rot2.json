@@ -1,0 +1,54 @@
+[
+ {
+  "name": "creative-7-portrait-stolz",
+  "logo": "logo.jpg",
+  "foto": "img/foto-hd-mitarbeiter-kubota.jpg",
+  "primary": "#8EC045",
+  "kicker": "GARTEN SCHMALZRIED · DEININGEN & UMGEBUNG",
+  "headline": [
+   "Baue Projekte,",
+   "auf die du stolz bist."
+  ],
+  "subline": "Facharbeiter / Vorarbeiter GaLaBau (m/w/d) · Kurzer Freitag",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.42
+  ]
+ },
+ {
+  "name": "creative-8-vorarbeiter-kolonne",
+  "logo": "logo.jpg",
+  "foto": "img/foto-hd-radlader.jpg",
+  "primary": "#8EC045",
+  "kicker": "EIGENE KOLONNE · MODERNE MASCHINEN",
+  "headline": [
+   "Vom Facharbeiter",
+   "zum Vorarbeiter."
+  ],
+  "subline": "GaLaBau (m/w/d) · Deiningen · Nördlingen · Donauwörth & Umgebung",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.62,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-9-benefit-stack",
+  "logo": "logo.jpg",
+  "foto": "img/foto-hd-pergola.jpg",
+  "primary": "#8EC045",
+  "kicker": "GARTEN SCHMALZRIED SUCHT",
+  "headline": [
+   "Kurzer Freitag.",
+   "Unbefristet.",
+   "Anhängerführerschein bezahlt."
+  ],
+  "subline": "Facharbeiter GaLaBau (m/w/d) · Deiningen bei Nördlingen",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ }
+]
